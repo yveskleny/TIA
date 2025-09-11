@@ -1,3 +1,4 @@
+import matplotlib
 from math import pow, sin, radians
 from random import randint, choice
 import os
